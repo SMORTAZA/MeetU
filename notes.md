@@ -13,3 +13,5 @@ Score 2: effets hydrophobes SHOGOFA et SARAH
 
     propriétés des acides aminés selon le pH (faire un dictionnaire)
 """
+
+voir MEET-U GitHub pour la suite (Equipe 3)
