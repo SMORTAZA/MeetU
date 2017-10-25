@@ -8,17 +8,8 @@ Le docking est composé de deux étapes :
 
 Nous sommes l'Equipe 3 Scoring du MEET-U.
 
-Interactions : 
-1) Complexes solubles (entre deux protéines)
-2) Homomères (entre deux protéines)
-3) Interactions domaine-domaine (au sein d'une même protéine)
+"""
+Score 2: effets hydrophobes SHOGOFA et SARAH
 
-Fonction de score :
-1) Critères géométriques
---> Clash stériques
---> Contacts ligand-récepteur
-2) Propriétés physico-chimiques
---> Charges électrostatiques
---> Effets hydrophobes
-3) Histoire évolutive commune 
---> Conservation
+    propriétés des acides aminés selon le pH (faire un dictionnaire)
+"""
